@@ -34,3 +34,8 @@ Designed and built a digital electronic safe system from scratch using discrete 
 The system includes 3-digit code authentication, D flip-flops, counters, timers, 7-segment displays, error counting, LED status indication, buzzer alerts, automatic reset after failed attempts, and external control inputs.
 
 [View Digital Electronic Safe System](https://github.com/sajakiwan052-crypto/digital-electronic-safe-system)
+
+## Contact
+
+- LinkedIn: [Saja Kiwan](https://www.linkedin.com/in/saja-kiwan-282454326?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- Email: saja.kiwan2002@gmail.com

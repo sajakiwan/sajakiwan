@@ -26,14 +26,14 @@ Designed and verified a complete 4-bit full-custom ALU in Cadence Virtuoso, incl
 
 The project covers schematic-to-layout implementation, DRC/LVS/PEX, PRE/POST-layout analysis, Monte Carlo verification, PVT analysis, timing characterization, power analysis, and PPA evaluation.
 
-[View 4-Bit Full-Custom ALU Project](https://github.com/sajakiwan052-crypto/4-Bit-Full-Custom-ALU-VLSI)
+[View 4-Bit Full-Custom ALU Project](https://github.com/sajakiwan/4-Bit-Full-Custom-ALU-VLSI)
 
 ### Digital Electronic Safe System
 Designed and built a digital electronic safe system from scratch using discrete digital logic components.
 
 The system includes 3-digit code authentication, D flip-flops, counters, timers, 7-segment displays, error counting, LED status indication, buzzer alerts, automatic reset after failed attempts, and external control inputs.
 
-[View Digital Electronic Safe System](https://github.com/sajakiwan052-crypto/digital-electronic-safe-system)
+[View Digital Electronic Safe System](https://github.com/sajakiwan/digital-electronic-safe-system)
 
 ## Contact
 

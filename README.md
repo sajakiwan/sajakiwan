@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Saja Kiwan 👋
 
-<!--
-**sajakiwan052-crypto/sajakiwan052-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical Engineering Graduate | VLSI & Digital Design
 
-Here are some ideas to get you started:
+Electrical Engineering graduate with hands-on experience in full-custom VLSI design, digital hardware design, physical implementation, and verification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work includes transistor-level schematic design, hierarchical integration, physical layout, DRC/LVS/PEX verification, PRE/POST-layout simulation, timing analysis, Monte Carlo analysis, PVT verification, and PPA evaluation using Cadence Virtuoso.
+
+## Technical Focus
+
+- VLSI & Full-Custom IC Design
+- Physical Design & Verification
+- Cadence Virtuoso
+- Schematic & Layout Design
+- DRC / LVS / PEX
+- PRE-Layout & POST-Layout Analysis
+- Monte Carlo & PVT Analysis
+- Timing, Power & PPA Analysis
+- Digital Logic Design
+- Verilog & VHDL
+
+## Featured Projects
+
+### 4-Bit Full-Custom ALU – VLSI Design & Verification
+Designed and verified a complete 4-bit full-custom ALU in Cadence Virtuoso, including arithmetic and logic operations, Carry, Overflow, Zero, and Signed SLT.
+
+The project covers schematic-to-layout implementation, DRC/LVS/PEX, PRE/POST-layout analysis, Monte Carlo verification, PVT analysis, timing characterization, power analysis, and PPA evaluation.
+
+[View 4-Bit Full-Custom ALU Project](https://github.com/sajakiwan052-crypto/4-Bit-Full-Custom-ALU-VLSI)
+
+### Digital Electronic Safe System
+Designed and built a digital electronic safe system from scratch using discrete digital logic components.
+
+The system includes 3-digit code authentication, D flip-flops, counters, timers, 7-segment displays, error counting, LED status indication, buzzer alerts, automatic reset after failed attempts, and external control inputs.
+
+[View Digital Electronic Safe System](https://github.com/sajakiwan052-crypto/digital-electronic-safe-system)
